@@ -1,0 +1,22 @@
+Cloud_Provider,Service,Sub_Option,Parametere,Price_per_Unit
+AWS,AWS EC2,AWS t2.micro,Hours,0.0116
+AWS,AWS EC2,AWS t2.medium,Hours,0.0464
+AWS,AWS EC2,AWS m5.large,Hours,0.096
+AWS,AWS S3,AWS Standard,Storage_Gb,0.02
+AWS,AWS S3,AWS Infrequent Access,Storage_Gb,0.0125
+AWS,AWS S3,AWS Glacier,Storage_Gb,0.00099
+AWS,AWS Data Transfer Out Of Internet,AWS Transfer,per GB,0.09
+Azure,Azure VM,Azure B2s,Hours,0.02
+Azure,Azure VM,Azure D2s_v3,Hours,0.096
+Azure,Azure VM,Azure E2s_v3,Hours,0.12
+Azure,Azure Blob Storage,Azure Hot,Storage_Gb,0.0184
+Azure,Azure Blob Storage,Azure Cool,Storage_Gb,0.01
+Azure,Azure Blob Storage,Azure Archive,Storage_Gb,0.00299
+Azure,Azure Bandwidth Egress,Azure Transfer,per GB,0.087
+GCP,GCP Compute Engine,GCP e2-micro,Hours,0.0076
+GCP,GCP Compute Engine,GCP n1-standard-1,Hours,0.0475
+GCP,GCP Compute Engine,GCP n2-standard-2,Hours,0.095
+GCP,GCP Cloud Storage,GCP Standard,Storage_Gb,0.02
+GCP,GCP Cloud Storage,GCP Nearline,Storage_Gb,0.01
+GCP,GCP Cloud Storage,GCP Archive,Storage_Gb,0.0025
+GCP,GCP Network Egress,GCP Transfer,per GB,0.12
