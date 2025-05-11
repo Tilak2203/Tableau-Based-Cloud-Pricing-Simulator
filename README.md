@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e1901c41-490c-4871-8a82-ef4ab5ef3059)
 
-Link: https://public.tableau.com/app/profile/tilak.jilka/viz/CloudPriceSimulator/CloudCostSimulator?publish=yes
+Porject Link: https://public.tableau.com/app/profile/tilak.jilka/viz/CloudPriceSimulator/CloudCostSimulator?publish=yes
 
 This Tableau dashboard helps users simulate and compare estimated cloud service costs across **AWS**, **Azure**, and **GCP** based on selected configurations. It allows users to filter by provider, service, service type, region, and usage size (hours or GB) to view the breakdown and comparison of instance, storage, and transfer costs.
 
