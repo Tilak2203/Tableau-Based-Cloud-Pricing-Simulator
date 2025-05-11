@@ -1,6 +1,8 @@
 # Tableau-Based-Cloud-Pricing-Simulator
 
 ![image](https://github.com/user-attachments/assets/e1901c41-490c-4871-8a82-ef4ab5ef3059)
+![image](https://github.com/user-attachments/assets/c5adca95-00d9-45c7-9b42-8f0847913018)
+
 
 Porject Link: https://public.tableau.com/app/profile/tilak.jilka/viz/CloudPriceSimulator/CloudCostSimulator?publish=yes
 
